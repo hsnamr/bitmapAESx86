@@ -7,6 +7,7 @@ TITLE Bitmap Encryption     (bitmapEncrypt.asm)
 ;
 ;
 ; Date Created:    3  January, 2006
+; Created by:	   Hussian Alamri
 ; Last Modified:   17 January, 2006
 
 
